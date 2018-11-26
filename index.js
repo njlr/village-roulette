@@ -6,6 +6,7 @@ const adjectives = [
   'old', 
   'straw', 
   'burning', 
+  'village', 
   'wooden', 
   'wooly', 
   'horse-back', 
@@ -19,7 +20,9 @@ const objects = [
   'cheese', 
   'dog', 
   'pumpkin', 
+  'ale', 
   'barn', 
+  'duck', 
   'mutton', 
   'chicken coop', 
   'trumpet', 
@@ -27,15 +30,20 @@ const objects = [
   'trophy', 
   'clock', 
   'stick', 
+  'yard', 
+  'spoon', 
+  'egg', 
 ];
 
 const events = [
   'chase', 
   'race', 
   'dance', 
+  'dash', 
 ];
 
 const places = [
+  '', 
   '', 
   '', 
   '', 
